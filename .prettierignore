@@ -1,0 +1,7 @@
+/.*/
+!/.github/
+/.github/*.md
+/build/
+/dist/
+
+
